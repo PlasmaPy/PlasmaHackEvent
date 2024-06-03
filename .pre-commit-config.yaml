@@ -19,7 +19,7 @@ repos:
   - id: check-yaml
 
 - repo: https://github.com/python-jsonschema/check-jsonschema
-  rev: 0.28.2
+  rev: 0.28.4
   hooks:
   - id: check-github-workflows
 
@@ -45,7 +45,7 @@ repos:
     exclude: .github/labeler.yml|.pre-commit-search-and-replace.yaml
 
 - repo: https://github.com/codespell-project/codespell
-  rev: v2.2.6
+  rev: v2.3.0
   hooks:
   - id: codespell
     name: codespell (add false positives to pyproject.toml)
