@@ -19,12 +19,12 @@ repos:
   - id: check-yaml
 
 - repo: https://github.com/python-jsonschema/check-jsonschema
-  rev: 0.29.1
+  rev: 0.29.2
   hooks:
   - id: check-github-workflows
 
 - repo: https://github.com/sirosen/texthooks
-  rev: 0.6.6
+  rev: 0.6.7
   hooks:
   - id: fix-smartquotes
   - id: fix-spaces
