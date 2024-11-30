@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build website
+    name: Build & Deploy
     runs-on: ubuntu-latest
 
     env:
