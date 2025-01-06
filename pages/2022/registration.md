@@ -17,7 +17,7 @@ the Hack Week and tailor topics to your interests, as best as we can, during the
 event.
 
 The registration form has an option to propose a **lightning talk** if you
-are interested in giving one.  A lightning talk is a short, informal
+are interested in giving one. A lightning talk is a short, informal
 talk on any topic of interest to Hack Week participants.
 
 <!--

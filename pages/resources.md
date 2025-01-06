@@ -4,7 +4,7 @@ hidetitle: True
 # Plasma Hack Week: Resources
 
 This page contains internet resources that are likely to be helpful to
-Hack Week participants.  For a good general resource on writing software
+Hack Week participants. For a good general resource on writing software
 for plasma science, we recommend [Research software engineering with
 Python](https://merely-useful.tech/py-rse/).
 

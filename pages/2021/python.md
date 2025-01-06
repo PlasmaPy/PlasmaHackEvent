@@ -5,14 +5,14 @@ hidetitle: True
 
 In the week before the Hack Week, we hosted two tutorials to
 introduce [Python](https://www.python.org/) to students and scientists
-who are new to Python.  These tutorials were held on Monday, June 21
-and Tuesday, June 22 at 15 UTC (5 pm CEST / 11 am EDT / 8 am PDT).  Each
-tutorial lasted about an hour.  This tutorial was adapted from
+who are new to Python. These tutorials were held on Monday, June 21
+and Tuesday, June 22 at 15 UTC (5 pm CEST / 11 am EDT / 8 am PDT). Each
+tutorial lasted about an hour. This tutorial was adapted from
 Software Carpentry's [Programming with Python
 tutorial](https://swcarpentry.github.io/python-novice-inflammation/).
 
 To replicate the Python environment for this tutorial, please go to the
-following Binder link.  You can access the Jupyter notebook used for the
+following Binder link. You can access the Jupyter notebook used for the
 tutorial by opening `PythonIntro2021.ipynb`.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/hack-week-python-intro/HEAD)
@@ -62,7 +62,7 @@ please follow these instructions.
    "Jupyter Notebook".
 
 1. Under the "Environments" tab on Anaconda Navigator, click on the
-   arrow for the `base` environment.  Select "Open terminal".
+   arrow for the `base` environment. Select "Open terminal".
 
 1. Type `pip install numpy matplotlib` to install the necessary packages
    and press enter.
@@ -86,8 +86,8 @@ please follow these instructions.
    matplotlib.pyplot.show()
    ```
 
-   Press shift-enter to run the cell.  If you get a fancy plot, you're
-   all set!  If you run into any errors, please ask on the
+   Press shift-enter to run the cell. If you get a fancy plot, you're
+   all set! If you run into any errors, please ask on the
    [Discord channel for the Hack Week](https://discord.gg/HdsZkp9M35)
    in the `#tutorial-python` channel.
 
