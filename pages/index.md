@@ -56,24 +56,24 @@ hidetitle: True
     </div>
 </div>
 
-Hello world!  We are pleased to announce the return of the **Plasma
-Hack Week**, which will be held remotely from July 11 – July 15, 2022.  For
+Hello world! We are pleased to announce the return of the **Plasma
+Hack Week**, which will be held remotely from July 11 – July 15, 2022. For
 additional information please check out the
 [2022 About page](./2022/about), and stay tuned as more details are
 released.
 
 ## What is a hack week and hacking?
 
-The term hacking has a broad range of use in modern day slang.  Hacking
+The term hacking has a broad range of use in modern day slang. Hacking
 during the **Plasma Hack Week** event is seen as a collaborative
 coding session among novices, experts, and like-minded learners to work
-on projects and learn from each other.  Hacking is a learn-by-doing
+on projects and learn from each other. Hacking is a learn-by-doing
 activity, one of the best ways to further our knowledge.
 
 **A [hack week](https://doi.org/10.1073/pnas.1717196115) is a combination
-of a hackathon (a marathon of hacking) and a summer school.**  While
+of a hackathon (a marathon of hacking) and a summer school.** While
 hackathons have traditionally prioritized collaborative code development
-activities, a hack week includes a teaching component.  Hack weeks
+activities, a hack week includes a teaching component. Hack weeks
 typically have both structured learning activities (such as tutorials) as
 well as unstructured project time. A hack week is a chance to:
 
@@ -115,7 +115,7 @@ along with `git`.
 ## Resources
 
 We have compiled [resources](./resources) that are likely to be useful
-for Hack Week participants.  Topics include Python, git/GitHub, and
+for Hack Week participants. Topics include Python, git/GitHub, and
 research software engineering best practices.
 
 ## Code of conduct
@@ -136,7 +136,7 @@ the week before the Hack Week on Monday, June 21 and Tuesday, June 22 at
 
 This website is made available under the [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0)
-license.  Portions of this website have been adapted from
+license. Portions of this website have been adapted from
 [PlasmaPy's main website](https://www.plasmapy.org/) and the
 [HackWeek Toolkit](https://uwescience.github.io/HackWeek-Toolkit/#)
 under the terms of the CC BY 4.0 license.

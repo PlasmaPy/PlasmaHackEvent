@@ -3,9 +3,9 @@ hidetitle: True
 
 # Plasma Hack Week 2021: Exit Survey
 
-Thank you for join us for our first Plasma Hack Week!  We were amazed
-by the interest and support of the community.  However, as it goes with
-any development, there is always room for improvement.  As such, we
+Thank you for join us for our first Plasma Hack Week! We were amazed
+by the interest and support of the community. However, as it goes with
+any development, there is always room for improvement. As such, we
 would like to hear your thoughts on the event, so we can make it even
 better for next year!
 

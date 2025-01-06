@@ -8,7 +8,7 @@ This repository contains the code for the Plasma Hack Week website
 The [contribution
 guide](https://github.com/PlasmaPy/plasmapy.github.io/blob/src/CONTRIBUTING.md)
 for PlasmaPy's main website contains instructions on how to contribute
-to the Plasma Hack Week website.  These instructions include how to fork
+to the Plasma Hack Week website. These instructions include how to fork
 and clone the repository, how to build local copies of the website, etc.
 
 ## License

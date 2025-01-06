@@ -2,7 +2,7 @@
 
 Source code files and code snippets included in this project are
 licensed under a [BSD 3-clause license with a patent
-grant](#bsd-3-clause-license-with-patent-grant).  All other content in
+grant](#bsd-3-clause-license-with-patent-grant). All other content in
 this project, including content produced directly from unmodified
 source code and code snippets, is licensed under a [Creative Commons
 Attribution 4.0 International (CC BY 4.0)

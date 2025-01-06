@@ -4,7 +4,7 @@ hidetitle: True
 # Software Installation for Plasma Hack Week
 
 This page contains instructions for installing software to be used
-during Plasma Hack Week.  In addition, here are installation links for
+during Plasma Hack Week. In addition, here are installation links for
 
 - [BOUT++](https://bout-dev.readthedocs.io/en/latest/user_docs/installing.html)
 - [Gkeyll](https://gkeyll.readthedocs.io/en/latest/install.html)
@@ -36,7 +36,7 @@ Week.
 
 1. Download this
    [`environment.yml`](https://raw.githubusercontent.com/PlasmaPy/hack-week-2021/main/environment.yml)
-   file to the `hackweek` folder.  You might need to use the "save page
+   file to the `hackweek` folder. You might need to use the "save page
    as" option from your web browser menu.
 
 1. [Open Anaconda
@@ -56,7 +56,7 @@ Week.
    - Click "Import".
 
 1. Under the "Environments" tab on Anaconda Navigator, find the
-   `hackweek` environment.  Click on the arrow for that environment, and
+   `hackweek` environment. Click on the arrow for that environment, and
    select the option to "Open with Jupyter Notebook".
 
 1. After Jupyter Notebook opens in your web browser, click on the button
@@ -68,7 +68,7 @@ Week.
     import plasmapy
    ```
 
-   and then press shift-Enter to execute the cell.  This should run
+   and then press shift-Enter to execute the cell. This should run
    without giving any errors.
 
 ### Installation with `conda` from the command line
@@ -79,7 +79,7 @@ If you have a working installation of `conda` then you can install the
 1. Open a terminal.
 
 1. Create a folder on your computer for the Hack Week, which we'll call
-   `hackweek`.  Enter that folder.
+   `hackweek`. Enter that folder.
 
 1. Download the `environment.yml` file by running
 
@@ -121,7 +121,7 @@ Binder environment to access a Python environment from your web browser.
 ## Integrated development environments
 
 An integrated development environment (IDE) is software used for code
-development.  IDEs typically include a source code editor as well as
+development. IDEs typically include a source code editor as well as
 built-in tools for refactoring, version control, running tests, and
 debugging.
 
@@ -136,7 +136,7 @@ debugging.
 ## Unix shell
 
 Python and `git` are often used from the Unix shell, which is one of the
-most commonly used command line interfaces.  Here are instructions on
+most commonly used command line interfaces. Here are instructions on
 [installing and/or accessing the bash
 shell](https://carpentries.github.io/workshop-template/#shell), which is
 one of the most commonly used Unix shells.
